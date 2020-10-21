@@ -1,2 +1,6 @@
 # Salseo
-Este bot  es creado basicamente para administrar y aportar un poco de diversión a los grupos de Telegram.
+
+Hi humans!
+
+This bot is made to add a little bit of *salsa* to our daily Telegram conversations. 
+This is my first code experience, so be patient. 
